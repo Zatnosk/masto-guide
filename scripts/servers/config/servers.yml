@@ -65,3 +65,6 @@
 - domain: social.multiverset.net
 
 - domain: krigskunst.social
+
+- domain: mikroblog.dk
+  without_monitoring: true
